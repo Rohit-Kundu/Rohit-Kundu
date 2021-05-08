@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Space!
 
-I am Rohit Kundu, a junior undergraduate at the Department of Electrical Engineering, Jadavpur University, India. I work on Deep Learning mainly for Computer Vision and Evolutionary Optimization algorithms. I primarily code in Python and use the PyTorch, Keras and TensorFlow libraries for deep learning. Check my [Google Scholar](http://scholar.google.com/citations?user=MxZUU8kAAAAJ&hl=en).
+I am Rohit Kundu, a junior undergraduate at the Department of Electrical Engineering, Jadavpur University, India. I work on Deep Learning mainly for Computer Vision and Evolutionary Optimization algorithms. I primarily code in Python and use the PyTorch, Keras and TensorFlow libraries for deep learning. Check out my [Google Scholar](http://scholar.google.com/citations?user=MxZUU8kAAAAJ&hl=en) profile.
 
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Kundu))-->
 
