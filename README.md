@@ -9,4 +9,3 @@ I am Rohit Kundu, a junior undergraduate at the Department of Electrical Enginee
 # Reach Me:
 - [rohitkunduju[at]gmail[dot]com](mailto:rohitkunduju@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/rohitkundu2000/)
-- [Twitter](https://twitter.com/rohitkundu2000)
