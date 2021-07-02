@@ -6,6 +6,8 @@ I am Rohit Kundu, a junior undergraduate at the Department of Electrical Enginee
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Kundu&show_icons=true&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=Rohit-Kundu)
+
 # Reach Me:
 - [rohitkunduju[at]gmail[dot]com](mailto:rohitkunduju@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/rohitkundu2000/)
