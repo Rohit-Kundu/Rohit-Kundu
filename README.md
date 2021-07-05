@@ -4,7 +4,7 @@ I am Rohit Kundu, a senior undergraduate at the Department of Electrical Enginee
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Kundu))-->
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Kundu&show_icons=true&theme=radical)
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Kundu&count_private=true&show_icons=true&theme=radical)
 
 <!--![](https://komarev.com/ghpvc/?username=Rohit-Kundu)-->
 
