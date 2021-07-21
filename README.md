@@ -11,5 +11,5 @@ I am Rohit Kundu, a senior undergraduate at the Department of Electrical Enginee
 <!--![](https://komarev.com/ghpvc/?username=Rohit-Kundu)-->
 
 # Reach Me:
-- [rohitkunduju[at]gmail[dot]com](mailto:rohitkunduju@gmail.com)
+- [rohitkunduju[at]gmail[dot]com](mailto:rohitkunduju@gmail.com) (Preferred)
 - [LinkedIn](https://www.linkedin.com/in/rohitkundu2000/)
