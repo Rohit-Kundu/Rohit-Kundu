@@ -12,4 +12,5 @@ I am Rohit Kundu, a senior undergraduate at the Department of Electrical Enginee
 
 # Reach Me:
 - [rohitkunduju[at]gmail[dot]com](mailto:rohitkunduju@gmail.com) (Preferred)
+- [Twitter](https://twitter.com/rohitkundu_2000)
 - [LinkedIn](https://www.linkedin.com/in/rohitkundu2000/)
