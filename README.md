@@ -4,7 +4,9 @@ I am Rohit Kundu, a senior undergraduate at the Department of Electrical Enginee
 
 [ResearchGate](https://www.researchgate.net/profile/Rohit-Kundu)/[ORCiD](https://orcid.org/0000-0001-8665-8898)
 
-_News_: I'll be joining the [Video Computing Group](https://vcg.engr.ucr.edu/) headed by Prof. [Amit K. Roy-Chowdhury](https://scholar.google.com/citations?user=hfgwx0oAAAAJ&hl=en&oi=ao) at the University of California, Riverside in Fall 2022 as a Ph.D. student.
+_News_:
+- 1 paper accepted at CVPR 2022: [Link](https://arxiv.org/pdf/2203.14843.pdf)
+- I'll be joining the [Video Computing Group](https://vcg.engr.ucr.edu/) headed by Prof. [Amit K. Roy-Chowdhury](https://scholar.google.com/citations?user=hfgwx0oAAAAJ&hl=en&oi=ao) at the University of California, Riverside in Fall 2022 as a Ph.D. student.
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Kundu))-->
 
