@@ -13,6 +13,6 @@ _News_: I'll be joining the [Video Computing Group](https://vcg.engr.ucr.edu/) h
 <!--![](https://komarev.com/ghpvc/?username=Rohit-Kundu)-->
 
 # Reach Me:
-- [rohitkunduju[at]gmail[dot]com](mailto:rohitkunduju@gmail.com) (Preferred)
+- [rohitkunduju [at] gmail [dot] com](mailto:rohitkunduju@gmail.com) (Preferred)
 - [Twitter](https://twitter.com/rohitkundu_2000)
 - [LinkedIn](https://www.linkedin.com/in/rohitkundu2000/)
