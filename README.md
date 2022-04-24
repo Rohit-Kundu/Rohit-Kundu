@@ -17,6 +17,6 @@ _News_:
 <!--![](https://komarev.com/ghpvc/?username=Rohit-Kundu)-->
 
 # Reach Me:
-- [rohit.kundu [at] email [dot] ucr [dot] edu](mailto:rohit.kundu@email.ucr.edu) (Preferred)
+- [rohit [dot] kundu [at] email [dot] ucr [dot] edu](mailto:rohit.kundu@email.ucr.edu) (Preferred)
 - [Twitter](https://twitter.com/rohitkundu_2000)
 - [LinkedIn](https://www.linkedin.com/in/rohitkundu2000/)
