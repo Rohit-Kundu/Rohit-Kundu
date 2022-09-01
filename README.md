@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Space!
 
-I am Rohit Kundu, a Ph.D. student at the Department of Electrical and Computer Engineering, University of California, Riverside working in the [Video Computing Group](https://vcg.engr.ucr.edu/) headed by Prof. [Amit K. Roy-Chowdhury](https://scholar.google.com/citations?user=hfgwx0oAAAAJ&hl=en&oi=ao). I work on Deep Learning mainly for Computer Vision applications. I primarily code in Python and use the PyTorch, Keras and TensorFlow libraries for deep learning. Check out my [Google Scholar](http://scholar.google.com/citations?user=MxZUU8kAAAAJ&hl=en) profile. I am also a reviewer for notable peer-reviewed journals ([Publons Profile](https://publons.com/researcher/4557964/rohit-kundu/peer-review/)).
+I am Rohit Kundu, a Ph.D. student at the Department of Electrical and Computer Engineering, University of California, Riverside working in the [Video Computing Group](https://vcg.engr.ucr.edu/) headed by Prof. [Amit K. Roy-Chowdhury](https://scholar.google.com/citations?user=hfgwx0oAAAAJ&hl=en&oi=ao). I work on low-supervision Deep Learning mainly for Computer Vision applications. Check out my [Google Scholar](http://scholar.google.com/citations?user=MxZUU8kAAAAJ&hl=en) profile. I am also a reviewer for notable peer-reviewed journals ([Publons Profile](https://publons.com/researcher/4557964/rohit-kundu/peer-review/)).
 
 [ResearchGate](https://www.researchgate.net/profile/Rohit-Kundu) | [ORCiD](https://orcid.org/0000-0001-8665-8898)
 
