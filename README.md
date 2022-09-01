@@ -11,7 +11,7 @@
 💬 For more details, visit my personal homepage: https://rohit-kundu.github.io/
 
 ⚡ _News_: ⚡
-- 1 paper accepted at CVPR 2022: [Link](https://arxiv.org/pdf/2203.14843.pdf)
+- 1 paper accepted at CVPR 2022: [Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.pdf)
 
 # Reach Me:
 - [rohit [dot] kundu [at] email [dot] ucr [dot] edu](mailto:rohit.kundu@email.ucr.edu) (Preferred)
