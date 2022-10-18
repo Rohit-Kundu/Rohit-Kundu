@@ -11,7 +11,7 @@
 💬 For more details, visit my personal homepage: https://rohit-kundu.github.io/
 
 ⚡ _News_: ⚡
-- 1 paper accepted at WACV 2023:
+- 1 paper accepted at [**WACV 2023**](https://wacv2023.thecvf.com/home):
 <!---
 Link
 -->
