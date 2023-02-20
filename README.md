@@ -11,6 +11,7 @@
 💬 For more details, visit my personal homepage: https://rohit-kundu.github.io/
 
 ⚡ _News_: ⚡
+- 1 paper accepted at [**ICASSP 2023**](https://2023.ieeeicassp.org/):
 - 1 paper accepted at [**WACV 2023**](https://wacv2023.thecvf.com/home):
 <!---
 Link
