@@ -13,6 +13,7 @@
 ⚡ _News_: ⚡
 - 1 paper accepted at **ICASSP 2023**: [Paper Link](https://doi.org/10.1109/ICASSP49357.2023.10094869)
 - 1 paper accepted at **WACV 2023**: [Paper Link](https://openaccess.thecvf.com/content/WACV2023/papers/Nag_SERF_Towards_Better_Training_of_Deep_Neural_Networks_Using_Log-Softplus_WACV_2023_paper.pdf)
+- 1 paper accepted at **CVPR 2022**: [Paper Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.pdf)
 <!---
 Link
 -->
