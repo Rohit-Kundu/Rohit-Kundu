@@ -11,6 +11,7 @@
 💬 For more details, visit my personal homepage: https://rohit-kundu.github.io/
 
 ⚡ _News_: ⚡
+- **Feb 2025**: Paper accepted at CVPR 2025: [Preprint](https://arxiv.org/pdf/2412.12278).
 - **June 2024**: Joined Google (YouTube) as a Student Researcher.
 <!---
 Link
