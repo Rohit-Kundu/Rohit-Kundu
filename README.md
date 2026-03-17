@@ -11,10 +11,8 @@
 💬 For more details, visit my personal homepage: https://rohit-kundu.github.io/
 
 ⚡ _News_: ⚡
-- **Apr 2025**: Paper accepted at CVPRW 2025: [Preprint](https://arxiv.org/pdf/2312.02420v2).
-- **Feb 2025**: Paper accepted at CVPR 2025: [Preprint](https://arxiv.org/pdf/2412.12278).
-- **Feb 2025**: Joining LinkedIn as a Research Intern in Summer 2025.
-- **June 2024**: Joined Google (YouTube) as a Student Researcher.
+- **Feb 2026**: Paper accepted at CVPR 2026: [Preprint](https://arxiv.org/pdf/2511.12834).
+- **Jan 2026**: Will be joining Google as a PhD Research Intern in Summer 2026.
 <!---
 Link
 -->
